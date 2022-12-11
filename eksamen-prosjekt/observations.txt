@@ -1,0 +1,50 @@
+Katt
+Dalsbergstien
+2022-06-03T10:15:00
+Satt på et gjerde
+Sort og hvit
+Hund
+Waldemar Thranes gate
+2022-06-03T10:25:00
+Ved Tranen. Virket glad og fornøyd
+false
+Bulldog
+Katt
+Storgata
+2022-06-03T10:35:00
+Lekte med et blad
+Rød
+Hund
+Storgata
+2022-06-03T10:36:00
+Rett ved McDonalds. Var nok ganske gammel
+true
+Mastiff
+Fugl
+Sofienbergparken
+2022-06-15T12:46:00
+Vippet med halen imens den spiste noe på bakken
+Linerle
+1
+Fugl
+Sofienbergparken
+2022-06-15T12:49:00
+Flokk som ble matet av en eldra dame
+Due
+20
+Katt
+Sofienbergparken
+2022-06-15T12:49:00
+Veldig interessert i duene som ble matet
+Sort
+Hvalross
+Frognerkilen
+2022-07-19T14:49:00
+Spiste en stakkars svane. Kalles Freya i mediene.
+2
+Fugl
+Frognerkilen
+2022-07-19T14:49:00
+Ble spist av hvalrossen Freya!
+Svane
+1
